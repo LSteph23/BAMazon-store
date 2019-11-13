@@ -1,5 +1,5 @@
 # BAMazon-store
-Created during Week 12 of Rutgers Coding Bootcamp. The goal was to create an Amazon-like store front using Node.js and MySQL.
+The goal was to create an Amazon-like store front using Node.js and MySQL.
 
 Getting Started
 Clone repo.
@@ -54,12 +54,7 @@ If the manager selects Create New Department, it allows the manager to create a 
 
 If the manager selects End Session, it ends the session and doesn't go back to the menu.
 
-Demo Videos
-BamazonCustomer.js (https://www.youtube.com/watch?v=p-QBusgtjKE)
 
-BamazonManager.js (https://www.youtube.com/watch?v=Go828nrwaLY)
-
-ExecutiveManager.js (https://www.youtube.com/watch?v=W6P2YpXGDq8)
 
 Technologies used
 Node.js
